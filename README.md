@@ -26,26 +26,4 @@
 <li>You can see your rendered markdown output at the same instance.</li>
 </ul><ul>
 <li>Download markdown code direclty with one click.</li>
-</ul><h2>Screenshots</h2>
-
-<h4>Some Examples Of different types of inputs</h4>
-<p><img style="width:50%; border:5px solid black" src="https://iili.io/ViGtuR.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViGyGt.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViM28G.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViMfwl.png" alt=""></p><h2>Setup</h2>
-<p>Followig are the requirements to run this project:</p><ul>
-<li>Node Package Manager (NPM)</li>
-</ul><ul>
-<li>React</li>
-</ul><h2>Usage</h2>
-<p>You can use this website to generate readme files in markdown language without actually writing in markdown ;).</p><h5>Code Examples</h5><ul>
-<li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
-</ul><p><code style="margin-left:40px">npm start</code></p><ul>
-<li>Or you can directly visit</li>
-</ul><p><a href="https://hansalshah007.github.io/readme-generator/" target="_blank"><code style="margin-left:40px"><h2>Contact</h2>
-<p>Completed and open for your contributions.</p><h2>Improvements</h2>
-<ul>
-<li>A seperate tab for rendering markdown output can be introduced so that output can be visible in mobile view also.</li>
-</ul><h2>Features that can be added</h2>
-<ul>
-<li>A database can be introduced where user’s unsaved changes and previously created readme files can be displayed/introduced.</li>
-</ul><ul>
-<li>Functionality that allows users can create their own sections.</li>
 </ul>
